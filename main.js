@@ -10,4 +10,4 @@ let B = +prompt("Enter a B color value(blue):");
 let brightness = Math.sqrt(0.299(R) ** 2 + 0.587(G) ** 2 + 0.114(B) ** 2);  
 
 //Output
-alert ($(brightness) is the brightness);
+alert ('$(brightness) is the brightness');
